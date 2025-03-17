@@ -11,8 +11,8 @@ Thanks Sofía Valcarcel for your advice and insights
 
 ## LICENSE
 MIT License
-Digital Vital
-Copyright (c) 2023 Fraunhofer IESE
+Data Analytics
+Copyright (c) 2025 Adeline Silva Schäfer
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
