@@ -27,3 +27,7 @@ The `World Happiness Report` is a landmark survey of the state of global happine
 ### Dataset
 dataset: `Ex2.2._Happiness-Score.csv`
 
+
+### Getting Started
+
+Before running this notebook, makesure to install the files in requirements.txt
